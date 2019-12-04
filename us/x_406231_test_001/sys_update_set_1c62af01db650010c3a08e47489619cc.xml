@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-12-04 19:42:07">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="test-001">2112af01db650010c3a08e47489619c6</application>
+<application_name>test-001</application_name>
+<application_scope>x_406231_test_001</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by the system</description>
+<inserted/>
+<name>test-001 - add table</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>1c62af01db650010c3a08e47489619cc</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-12-04 19:42:06</sys_created_on>
+<sys_id>c7d32305db650010c3a08e47489619b6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-12-04 19:42:06</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="test-001">2112af01db650010c3a08e47489619c6</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_ac73eb81db650010c3a08e4748961948</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="ac73eb81db650010c3a08e4748961948" sys_domain="global" table="x_406231_test_001_test_001" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_updated_on</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-04 19:40:29</sys_created_on><sys_id>d7732bc1db650010c3a08e474896195d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_406231_test_001_test_001" sys_domain="global" view="Default view">ac73eb81db650010c3a08e4748961948</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-04 19:40:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_created_on</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-04 19:40:29</sys_created_on><sys_id>df732bc1db650010c3a08e474896195d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_406231_test_001_test_001" sys_domain="global" view="Default view">ac73eb81db650010c3a08e4748961948</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-04 19:40:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_406231_test_001_test_001</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-04 19:40:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ac73eb81db650010c3a08e4748961948</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_406231_test_001_test_001</sys_name><sys_overrides/><sys_package display_value="test-001" source="x_406231_test_001">2112af01db650010c3a08e47489619c6</sys_package><sys_policy/><sys_scope display_value="test-001">2112af01db650010c3a08e47489619c6</sys_scope><sys_update_name>sys_ui_section_ac73eb81db650010c3a08e4748961948</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-04 19:40:18</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>-1399704047</payload_hash>
+<remote_update_set display_value="test-001 - add table">c7d32305db650010c3a08e47489619b6</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-12-04 19:42:06</sys_created_on>
+<sys_id>8fd32305db650010c3a08e47489619b6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16ed26d9eed0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-12-04 19:42:06</sys_updated_on>
+<table>x_406231_test_001_test_001</table>
+<target_name>test-001</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>d3732bc16765001053c1c9145f02445f</update_guid>
+<update_guid_history>d3732bc16765001053c1c9145f02445f:-1399704047,6c73eb814c6500102e4c524b67b9604b:-1102808945</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
